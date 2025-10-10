@@ -59,4 +59,4 @@ def tokenize(input_string):
 
 for linha in sys.stdin:
     for tok in tokenize(linha):
-        print(tok)    
+        print(tok)
