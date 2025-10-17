@@ -1,0 +1,46 @@
+{
+    "stock": [
+        {
+            "cod": "A1",
+            "nome": "Agua 0.5L",
+            "quant": 10,
+            "preco": 0.7
+        },
+        {
+            "cod": "A2",
+            "nome": "Monster",
+            "quant": 10,
+            "preco": 1.5
+        },
+        {
+            "cod": "A3",
+            "nome": "Bolo",
+            "quant": 10,
+            "preco": 0.8
+        },
+        {
+            "cod": "A4",
+            "nome": "Madalena",
+            "quant": 10,
+            "preco": 0.8
+        },
+        {
+            "cod": "A5",
+            "nome": "Red Bull",
+            "quant": 10,
+            "preco": 1.4
+        },
+        {
+            "cod": "A6",
+            "nome": "Caf\u00e9",
+            "quant": 8,
+            "preco": 0.6
+        },
+        {
+            "cod": "A7",
+            "nome": "Gal\u00e3o",
+            "quant": 10,
+            "preco": 0.9
+        }
+    ]
+}
